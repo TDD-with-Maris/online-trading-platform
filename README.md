@@ -1,9 +1,10 @@
 # Online Trading Platform
 
-Fully open source online trading platform allowing engineers to get familiar with electronic trading APIs. 
+Online Trading Platform is a client application built by the community, for the community.
+
+Online Trading Platform is fully open source allowing engineers to get familiar with electronic trading APIs. 
 
 ## Features
-* Intuitive User Experience
 * Market Data 
 * Trade Execution
 
